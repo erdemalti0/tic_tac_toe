@@ -138,8 +138,3 @@ while True:
     elif win_or_tie() == 'TIE':
         break
     start += 1
-
-# NAME: YUSUF ERDEM
-# SURNAME: ALTINSOY
-# STUDENTID: 20230702034
-# LECTURE CSE 101
